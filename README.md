@@ -1,5 +1,5 @@
 # EnglihVocabularyQuiz
-will be developed  // correct.mp3-incorrect.mp3 
+will be developed  //
 
 ![menu](https://github.com/AliArdal/EnglihVocabularyQuiz/assets/135712333/db032d01-e4f6-49ab-bfaa-dd3aa6e9501d)
 ![test1](https://github.com/AliArdal/EnglihVocabularyQuiz/assets/135712333/788518d6-e541-4c3d-965d-9568c0d77ffe)
