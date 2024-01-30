@@ -1,7 +1,7 @@
 # EnglihVocabularyQuiz
 will be developed  // correct.mp3-incorrect.mp3 
 
-![53](https://github.com/AliArdal/EnglihVocabularyQuiz/assets/135712333/b141819d-9f0c-4e47-9d01-e7548ddc977d)
-![a](https://github.com/AliArdal/EnglihVocabularyQuiz/assets/135712333/7865feb4-f30b-4480-9447-def2cf076147)
-![s](https://github.com/AliArdal/EnglihVocabularyQuiz/assets/135712333/234d9d75-12a3-43a3-96da-72a3589a68fe)
+![menu](https://github.com/AliArdal/EnglihVocabularyQuiz/assets/135712333/db032d01-e4f6-49ab-bfaa-dd3aa6e9501d)
+![test1](https://github.com/AliArdal/EnglihVocabularyQuiz/assets/135712333/788518d6-e541-4c3d-965d-9568c0d77ffe)
+![test3](https://github.com/AliArdal/EnglihVocabularyQuiz/assets/135712333/c04fb72a-6522-4940-87fa-cb203bc2a0dd)
 
